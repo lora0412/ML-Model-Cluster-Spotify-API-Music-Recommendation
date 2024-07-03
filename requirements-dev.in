@@ -1,4 +1,14 @@
 numpy 
 pandas 
-seaborn
+glob
+
+requests
+base64
+time
+logging
+spotipy
+
+statsmodels.api
 matplotlib.pyplot
+seaborn
+sklearn
